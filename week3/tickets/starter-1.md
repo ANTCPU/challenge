@@ -5,8 +5,7 @@
 **Week:** 3
 
 ## The Task
-Add your name and handle to CONTRIBUTORS.md in this repo.
-That's it. One file. One line. One PR.
+Add your name and handle to tickets YourName.md
 
 ## Why This Matters
 Every contributor to a real codebase starts here.
@@ -14,15 +13,15 @@ A clean first PR shows you understand the workflow.
 
 ## Steps
 1. Fork this repo
-2. Create a branch: `your-handle/add-contributor`
-3. Create CONTRIBUTORS.md if it doesn't exist
-4. Add one line: `- YourName (YourHandle) · Dev Track · October 2026`
-5. Open a PR titled: `[Starter] Add YourHandle to CONTRIBUTORS`
+2. Create a file
+3. Create YourName.md if it doesn't exist
+4. Add one line: `- YourName (YourHandle) · Dev Track`
+5. Open a PR titled: `[Starter] Add YourHandle to tickets`
 
 ## AI Assist
 You can use AI for this gate.
 Suggested prompt for Cursor or Claude:
-"I need to create a CONTRIBUTORS.md file and add one line
+"I need to create a YourName.md file and add one line
 with my name, handle, track, and cohort. Format it cleanly."
 
 ## Marketing Observer Brief
