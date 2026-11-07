@@ -38,35 +38,19 @@ There are no trick questions here. We want to see:
 - How you use AI as a co-pilot, not a crutch
 - Whether your code does what you say it does
 
-Week 1 is exploration. Week 2 is execution.
-By the end of Week 2 your PR is your proof.
+Week 1 is exploration. Week 2 is execution all goes on CV.
+By the end of Week 2, week 3 is your proof.
 
 > Complete Week 1 gates first at [antcpu.io/dev](https://antcpu.io/dev/)
-> before opening issues here.
+> before opening issues in the repo.
 
 
-**Week 4**
+**Week 4 | Phase 2**
 
-Phase 2 is where it gets real.
-
-The [ANTCPU/ads](https://github.com/ANTCPU/ads) repo is the 
-live codebase behind [antcpu.cloud](https://antcpu.cloud) — 
-a production ad network with real users, real traffic, and 
-real open problems.
-
-Before you touch any code, read:
-- [`DEV.md`](https://github.com/ANTCPU/ads/blob/main/DEV.md) 
-  — full stack reference, key files, database schema, agent 
-  system, known gaps
-- [`CONTRIBUTING.md`](https://github.com/ANTCPU/ads/blob/main/CONTRIBUTING.md)
-  — how to work in this codebase
-
-The known gaps in issues.md are your targets. They are real 
-problems, documented with file locations and priority levels. 
-A clean fix with clear reasoning is worth more than an 
+Before you touch any code, a clean fix with clear reasoning is worth more than an 
 ambitious PR that doesn't run.
 
-**The build rule here is the same as the rest of the codebase:**
+**The build rule here are the same as the rest of the codebase:**
 > Observe → Document → Discuss → Build.
 > Code follows the document. Never the other way around.
 
@@ -90,11 +74,9 @@ They leave the repo better than they found it.
 
 ---
 
-## The Stack (for Phase 2)
+## The Stack
 
-Next.js 15 · TypeScript · Supabase · Vercel · Gemini 2.5 Flash
-
-Full reference: [DEV.md](https://github.com/ANTCPU/ads/blob/main/DEV.md)
+Github | Challenge
 
 ---
 
@@ -104,9 +86,7 @@ Full reference: [DEV.md](https://github.com/ANTCPU/ads/blob/main/DEV.md)
 |---|---|
 | Challenge home | [antcpu.io](https://antcpu.io) |
 | Live product | [antcpu.cloud](https://antcpu.cloud) |
-| Production repo | [ANTCPU/ads](https://github.com/ANTCPU/ads) |
 | Dev workspace | [antcpu.io/dev](https://antcpu.io/dev/) |
-| Your next task | [antcpu.io/next](https://antcpu.io/next/) |
 
 ---
 
